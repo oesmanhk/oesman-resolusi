@@ -2,3 +2,4 @@
 2. Mengurus admisi S3
 3. Menulis artikel Blockchain
 4. Menulis buku Python
+5. Mengadakan workshop abdimas Moodle
